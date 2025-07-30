@@ -21,7 +21,7 @@
   
 <br/>![](https://github-readme-stats.vercel.app/api?username=JAI-K-910&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JAI-K-910&theme=neon&hide_border=false)<br/><br/>
-![](https://github-profile-trophy.vercel.app/?username=JAI-K-910&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JAI-K-910&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
