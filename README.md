@@ -40,11 +40,8 @@
 
 </div>
 ---
-<div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=JAI-K-910&icon=5&color=0)](https://visitcount.itsvg.in)
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
