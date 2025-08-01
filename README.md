@@ -41,7 +41,10 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JAI-K-910&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JAI-K-910&label=+++👀🗿+++&style=for-the-badge&color=000000&abbreviated=true" alt="Visitor Count" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
